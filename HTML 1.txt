@@ -1,0 +1,9 @@
+Learned HTML Basics & Format of any page i.e.
+<html>
+	<head>
+		<title>" Hi, Myname is SATYAM RANA "<\title>
+	<\head>
+		<body>
+			"content" 
+		<\body>
+<\html>
